@@ -1,20 +1,29 @@
 ---
 interface Props {
   name: string;
-  initials: string;
+  linkedin: string;
   title: string;
   bio: string[];
 }
 
-const { name, initials, title, bio } = Astro.props;
+const { name, linkedin, title, bio } = Astro.props;
 ---
 
 <article class="person">
-  <div class="person-photo" aria-hidden="true">
-    <span>{initials}</span>
-  </div>
   <h3 class="person-name">{name}</h3>
   <p class="person-title small muted">{title}</p>
+  <a
+    class="person-linkedin"
+    href={linkedin}
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label={`${name} on LinkedIn`}
+  >
+    <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+      <path fill="currentColor" d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM.22 8h4.56v13.5H.22V8zm7.4 0h4.37v1.85h.06c.61-1.15 2.1-2.36 4.32-2.36 4.62 0 5.47 3.04 5.47 7v6.51h-4.56v-5.77c0-1.38-.03-3.15-1.92-3.15-1.92 0-2.22 1.5-2.22 3.05v5.87H7.62V8z"/>
+    </svg>
+    <span class="sr-only">LinkedIn</span>
+  </a>
   {bio.map((paragraph) => <p>{paragraph}</p>)}
 </article>
 
@@ -24,27 +33,37 @@ const { name, initials, title, bio } = Astro.props;
     flex-direction: column;
   }
 
-  .person-photo {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    background: linear-gradient(135deg, var(--steel), var(--sky));
-    color: var(--ink);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 2.25rem;
-    font-weight: 700;
-    letter-spacing: -0.02em;
-    margin-bottom: 1.5rem;
-  }
-
   .person-name {
     margin-bottom: 0.15rem;
   }
 
   .person-title {
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .person-linkedin {
+    display: inline-flex;
+    align-items: center;
+    color: var(--sky);
+    margin-bottom: 1.25rem;
+    transition: color 0.15s ease;
+    width: fit-content;
+  }
+
+  .person-linkedin:hover {
+    color: var(--ember);
+  }
+
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
   }
 
   .person p {
