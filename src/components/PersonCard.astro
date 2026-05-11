@@ -1,15 +1,17 @@
 ---
 interface Props {
   name: string;
+  photo: string;
   linkedin: string;
   title: string;
   bio: string[];
 }
 
-const { name, linkedin, title, bio } = Astro.props;
+const { name, photo, linkedin, title, bio } = Astro.props;
 ---
 
 <article class="person">
+  <img class="person-photo" src={photo} alt={name} width="240" height="240" loading="lazy" />
   <h3 class="person-name">{name}</h3>
   <p class="person-title small muted">{title}</p>
   <a
@@ -31,6 +33,14 @@ const { name, linkedin, title, bio } = Astro.props;
   .person {
     display: flex;
     flex-direction: column;
+  }
+
+  .person-photo {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1.25rem;
   }
 
   .person-name {
