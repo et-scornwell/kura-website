@@ -1,0 +1,58 @@
+---
+import PersonCard from "./PersonCard.astro";
+
+const steve = {
+  name: "Steve Cornwell",
+  initials: "SC",
+  title: "Co-founder",
+  bio: [
+    "Steve has spent 20 years founding, scaling, and selling software companies. He founded Northpass and led it through its acquisition by Gainsight. Before that, he helped scale Edifice to its acquisition by SPS Commerce.",
+    "After both exits, he stayed on to operate within the acquiring companies. He brings the founder and seller perspective to Kura because he's been on both sides of the table.",
+    "When he's not working, he's raising four ambitious and fun kids, riding the local mountain bike trails, or reading about technology, investing, and leadership, which his family has accepted is his idea of a good time.",
+  ],
+};
+
+const tom = {
+  name: "Tom Vander Schaaff",
+  initials: "TV",
+  title: "Co-founder",
+  bio: [
+    "Tom has 30 years of experience at several investment firms. He is older than he looks. He has worn a lot of hats over time: investor, chief financial officer, engineer, and caddy, among them.",
+    "Prior to starting Kura with Steve, Tom was lucky enough to invest in and partner with Steve to build Northpass to a successful outcome.",
+    "Tom is often reminded of and motivated by how much he has yet to learn, whether it is by the entrepreneurs that he is fortunate to be surrounded by or his family, full of daughters and dogs that are working hard every day on training him.",
+  ],
+};
+---
+
+<section id="team" class="team tinted">
+  <div class="container">
+    <h2>Who We Are</h2>
+    <p class="lead intro">
+      Two co-founders who've spent careers building, selling, and investing in
+      software companies.
+    </p>
+    <div class="team-grid">
+      <PersonCard {...steve} />
+      <PersonCard {...tom} />
+    </div>
+  </div>
+</section>
+
+<style>
+  .team .intro {
+    margin-bottom: 3.5rem;
+  }
+
+  .team-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 3rem;
+  }
+
+  @media (max-width: 760px) {
+    .team-grid {
+      grid-template-columns: 1fr;
+      gap: 3.5rem;
+    }
+  }
+</style>
