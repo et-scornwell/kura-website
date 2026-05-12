@@ -6,13 +6,6 @@
     <a href="#top" class="footer-logo" aria-label="Kura Holdings home">
       <img src="/logos/kura-full-light.svg" alt="Kura Holdings" width="160" height="26" />
     </a>
-    <nav class="footer-nav" aria-label="Site sections">
-      <a href="#about">About</a>
-      <a href="#criteria">Criteria</a>
-      <a href="#team">Team</a>
-      <a href="#approach">Approach</a>
-      <a href="#contact">Contact</a>
-    </nav>
     <p class="footer-copyright small">© 2026 Kura Holdings. All rights reserved.</p>
   </div>
 </footer>
@@ -24,32 +17,15 @@
   }
 
   .footer-inner {
-    display: grid;
-    grid-template-columns: 1fr auto 1fr;
+    display: flex;
     align-items: center;
+    justify-content: space-between;
     gap: 1.5rem;
   }
 
   .footer-logo img {
     height: 26px;
     width: auto;
-  }
-
-  .footer-nav {
-    display: flex;
-    gap: 1.5rem;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
-  .footer-nav a {
-    color: var(--text-muted);
-    font-weight: 500;
-    font-size: 0.95rem;
-  }
-
-  .footer-nav a:hover {
-    color: #fff;
   }
 
   .footer-copyright {
@@ -60,13 +36,9 @@
 
   @media (max-width: 760px) {
     .footer-inner {
-      grid-template-columns: 1fr;
+      flex-direction: column;
       text-align: center;
       gap: 1.25rem;
-    }
-
-    .footer-logo {
-      justify-self: center;
     }
 
     .footer-copyright {
