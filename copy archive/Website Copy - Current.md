@@ -1,113 +1,87 @@
 
-## SECTION 1: Hero
+## Hero
 
-**Headline:**
-A long-term home for the software business you've built.
+We buy software businesses that don't fit the usual exit paths.
 
+Kura buys small, vertical software companies from founders who want a thoughtful transition and a long-term home for their team, customers, and product.
 
-**Subline:**
-We buy important software businesses from great founders and hold them for the long term, making sure they have the team and investment needed to keep serving customers well.
+**Get in Touch**
 
-
-
-**CTA Button:**
-Get in Touch
-
-**Name origin (small text, below hero or in footer):**
-Kura (蔵), pronounced "koo-rah," is Japanese for storehouse: a place where valuable things are kept.
+Kura (蔵), pronounced "koo-rah," is a Japanese storehouse built to protect valuable possessions across generations. We thought it was fitting.
 
 
 
----
+## What We Do
 
-## SECTION 2: What We Do
+Most software companies don't have a clean exit path. They're too small for private equity, too slow for venture capital, and too independent to be absorbed by a strategic acquirer.
 
-**Section headline:** What We Do
+Those founders often end up in limbo, and that's where Kura helps.
 
-We're a holding company built around being good partners to — and strong stewards of — technology businesses that don't fit the traditional private equity and venture capital models. We buy small, vertical B2B software companies and we hold them. That's it.
+We buy niche software companies with the intention of holding them permanently. We reinvest in the product, support the existing team, and make operating decisions with years in mind.
 
-No flipping in three to five years, and no ripping the brand apart or merging it into something else. When we buy your business, the name stays, the team stays, and the customers keep getting the product they depend on. We reinvest cash flow back into the businesses we own and use it to buy more of them over time.
+The brand, the team, and the culture stay intact, and customers continue to get the product they depend on. That's the Kura operating model.
 
----
 
-## SECTION 3: What We Look For
 
-**Section headline:** What We Look For
+## What We Look For
 
-We're drawn to vertical B2B software companies: products built for a specific industry that run mission-critical workflows. The kind of business where your customers would have a really hard time replacing you.
+We focus on B2B software companies that support mission-critical workflows in a specific industry.
 
-Here's what tends to get our attention:
+We gravitate toward:
 
-- Profitable and founder-led, with a real track record
-- Recurring revenue and strong customer retention
-- A durable niche that's not about to get disrupted by a well-funded competitor
-- A team that wants to stay and keep building
-- EBITDA between $250k–$1M
+- Founder-led or founder-owned
+- Profitable, with a real operating history
+- Recurring revenue and strong retention
+- A durable niche with clear reasons customers stay
+- A team that wants to keep building
+- EBITDA between $250K and $2M
 
-We gravitate toward regulated, slow-moving verticals where switching costs are high and the customer base values reliability over the newest shiny thing.
+We especially like regulated, slower-moving industries where barriers to entry are high, switching costs are real, and customers value stability more than chasing the newest trend.
 
-If your business doesn't check every box, reach out anyway. We'd rather have the conversation than miss something great over a technicality.
+If your business doesn't check every box, we'd rather have a conversation than miss a company that could be a great fit.
 
----
 
-## SECTION 4: Who We Are
+## Who We Are
 
-**Section headline:** Who We Are
+We've spent our careers building, operating, selling, and investing in software companies. 
 
-Two co-founders who've spent careers building, selling, and investing in software companies.
+### Steve Cornwell
 
-### Steve Cornwell, Co-founder
+Co-founder
 
-Steve Headshot
+Steve has spent 20 years building, operating, and selling software companies. He founded Northpass and led the company through its acquisition by Gainsight. Earlier in his career, he helped scale Edifice through its acquisition by SPS Commerce.
 
-Steve has spent 20 years founding, scaling, and selling software companies. He founded Northpass and led it through its acquisition by Gainsight. Before that, he helped scale Edifice to its acquisition by SPS Commerce.
+After both exits, Steve stayed on to operate inside the acquiring companies. That experience shaped how Kura thinks about ownership: clear expectations, respect for the team, and a real commitment to customers.
 
-After both exits, he stayed on to operate within the acquiring companies. He brings the founder and seller perspective to Kura because he's been on both sides of the table.
+Outside of work, Steve is raising four kids, mountain biking, and studying technology and leadership, which his kids have come to accept as his version of fun.
 
-When he's not working, he's raising four ambitious and fun kids, riding the local mountain bike trails, or reading about technology, investing, and leadership, which his family has accepted is his idea of a good time.
+### Tom Vander Schaaff
 
-### Tom Vander Schaaff, Co-founder
+Co-founder
 
-Tom Headshot
+Tom has spent 30 years as an investor, operator, and CFO across software and technology businesses. He's evaluated hundreds of companies, partnered with dozens of founders, and has a finance and operating perspective built on seeing what actually works over long time horizons.
 
-Tom has 30 years of experience at several investment firms. He is older than he looks. He has worn a lot of hats over time: investor, chief financial officer, engineer, and caddy, among them.
+Tom and Steve first worked together when Tom invested in Northpass, a partnership that led to its acquisition by Gainsight. That shared experience is a big part of why we started Kura together: they'd seen what a good outcome looks like and wanted to build a company around repeating it.
 
-Prior to starting Kura with Steve, Tom was lucky enough to invest in and partner with Steve to build Northpass to a successful outcome.
+Outside of work, Tom spends time with his family, including his daughters and dogs, who continue to keep him humble.
 
-Tom is often reminded of and motivated by how much he has yet to learn, whether it is by the entrepreneurs that he is fortunate to be surrounded by or his family, full of daughters and dogs that are working hard every day on training him.
 
----
 
-## SECTION 5: Our Approach
+## How We Work With Founders
 
-**Section headline:** How We Work With Founders
+For most founders, selling their business means handing off years of work, relationships, customer trust, and personal identity.
 
-We've both spent careers on different sides of the table, so we know what a good process looks like and what a painful one looks like. We try very hard to be the former.
+We know that because we've lived it.
 
-We buy businesses at fair prices, structure deals that work for both sides, and move through diligence without dragging it out. If you want to stay and keep running your business with real support behind you, that's the best outcome for everyone.
+Our goal is to be direct, respectful, and efficient. We move quickly when there is a fit, communicate clearly when there's not, and avoid unnecessary diligence.
 
-There aren't many serious, experienced buyers focused on businesses of this size. Most PE firms have minimums well above what we're looking at, and strategic acquirers typically want full integration. We built Kura to be a good home for founders who want a partner, not a flip.
+We buy businesses at fair prices, structure deals that work for both sides, and provide the existing team the support needed to keep building.
 
----
+Kura is built for founders who care what happens after the close.
 
-## SECTION 6: Contact
 
-**Section headline:** Let's Talk
+## Let's Talk
 
-If you're a founder thinking about your next chapter, or a broker with a business that might be a good fit, we'd love to hear from you.
+If you're a founder starting to think about what's next for your business, we'd welcome the conversation.
 
-**Email:** steve@kura.holdings
-
----
-
-## FOOTER
-
-**Left side:**
-Kura Logo
-
-**Center/links:**
-[scrolls to corresponding sections]
-About | Criteria | Team | Approach | Contact
-
-**Right side / small text:**
-© 2026 Kura Holdings. All rights reserved.
+hello@kura.holdings
