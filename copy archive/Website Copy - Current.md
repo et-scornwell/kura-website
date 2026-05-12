@@ -1,7 +1,7 @@
 
 ## Hero
 
-We buy software businesses that don't fit the usual exit paths.
+We buy software companies that don't fit the usual exit paths.
 
 Kura buys small, vertical software companies from founders who want a thoughtful transition and a long-term home for their team, customers, and product.
 
@@ -38,7 +38,7 @@ We gravitate toward:
 
 We especially like regulated, slower-moving industries where barriers to entry are high, switching costs are real, and customers value stability more than chasing the newest trend.
 
-If your business doesn't check every box, we'd rather have a conversation than miss a company that could be a great fit.
+If your company doesn't check every box, we'd rather have a conversation than miss a company that could be a great fit.
 
 
 ## Who We Are
@@ -59,7 +59,7 @@ Outside of work, Steve is raising four kids, mountain biking, and studying techn
 
 Co-founder
 
-Tom has spent 30 years as an investor, operator, and CFO across software and technology businesses. He's evaluated hundreds of companies, partnered with dozens of founders, and has a finance and operating perspective built on seeing what actually works over long time horizons.
+Tom has spent 30 years as an investor, operator, and CFO across software and technology companies. He's evaluated hundreds of companies, partnered with dozens of founders, and has a finance and operating perspective built on seeing what actually works over long time horizons.
 
 Tom and Steve first worked together when Tom invested in Northpass, a partnership that led to its acquisition by Gainsight. That shared experience is a big part of why we started Kura together: they'd seen what a good outcome looks like and wanted to build a company around repeating it.
 
@@ -69,19 +69,19 @@ Outside of work, Tom spends time with his family, including his daughters and do
 
 ## How We Work With Founders
 
-For most founders, selling their business means handing off years of work, relationships, customer trust, and personal identity.
+For most founders, selling their company means handing off years of work, relationships, customer trust, and personal identity.
 
 We know that because we've lived it.
 
 Our goal is to be direct, respectful, and efficient. We move quickly when there is a fit, communicate clearly when there's not, and avoid unnecessary diligence.
 
-We buy businesses at fair prices, structure deals that work for both sides, and provide the existing team the support needed to keep building.
+We buy companies at fair prices, structure deals that work for both sides, and provide the existing team the support needed to keep building.
 
 Kura is built for founders who care what happens after the close.
 
 
 ## Let's Talk
 
-If you're a founder starting to think about what's next for your business, we'd welcome the conversation.
+If you're a founder starting to think about what's next for your company, we'd welcome the conversation.
 
 hello@kura.holdings
